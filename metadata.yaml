@@ -1,0 +1,36 @@
+_repo: Specimens-of-German-Romance--Vol.-I.-The-Patricians_32070
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Velde, C. F. van der (Carl Franz)
+    aliases:
+    - Velde, Karl Franz van der
+    - Van der Velde, C. F. (Carl Franz)
+    - Velde, Carl Franz van der
+    birthdate: 1779
+    deathdate: 1824
+    gutenberg_agent_id: '35650'
+    url: http://www.gutenberg.org/2009/agents/35650
+  editor:
+    agent_name: Soane, George
+    birthdate: 1790
+    deathdate: 1860
+    gutenberg_agent_id: '35736'
+    url: http://www.gutenberg.org/2009/agents/35736
+description: ''
+gutenberg_issued: '2010-04-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32070'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'German fiction -- Translations into English'
+title: Specimens of German Romance; Vol. I. The Patricians
+url: http://www.gutenberg.org/ebooks/32070
