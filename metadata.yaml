@@ -21,6 +21,8 @@ creator:
     gutenberg_agent_id: '35736'
     url: http://www.gutenberg.org/2009/agents/35736
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32070#Specimens-of-German-Romance--Vol.-I.-The-Patricians
 gutenberg_issued: '2010-04-20'
 gutenberg_type: Text
 identifiers:
